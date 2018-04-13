@@ -9,6 +9,22 @@ function whisper(string) {
   return string.toLowerCase();
 }
 
-function logShot(string)
+function logShout(string) {
+  
+  return console.log(string.toUpperCase());
+}
 
-  return console.log()
+function logWhisper(string) {
+  
+  return console.log(string.toLower());
+}
+
+function sayHiToGrandma(string) {
+  
+  if ( string === string.toUpperCase() ) {
+    return true;
+  }
+ 
+}
+  
+  

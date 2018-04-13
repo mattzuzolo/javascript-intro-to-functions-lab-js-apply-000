@@ -33,8 +33,6 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   }
   
-  
- 
 }
   
   
